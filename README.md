@@ -1,2 +1,2 @@
 # javascript_basico
-Fundaments to JavaScript
+Fundaments to learn JavaScript
